@@ -1,8 +1,9 @@
 import React from 'react'
 import './header.css';
 import CTA from './CTA'
-import ME from '../../assets/developer_image.jpg'
+// import ME from '../../assets/developer_image.jpg'
 import HeaderSocials from './HeaderSocials';
+import {FaWolfPackBattalion} from 'react-icons/fa'
 const Header = () => {
   return (
     <header>
@@ -13,7 +14,10 @@ const Header = () => {
               <CTA></CTA>
               <HeaderSocials> </HeaderSocials>
               <div className="me">
-                <img className="me__image" src={ME} alt="me" />
+                  <a href="#">
+                  <FaWolfPackBattalion size={150}></FaWolfPackBattalion>
+                  </a>
+                 
               </div>
               <a href="#contact" className="scroll__down">Scroll Down</a>     
         </div>

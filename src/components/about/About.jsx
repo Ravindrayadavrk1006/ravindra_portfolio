@@ -34,7 +34,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam suscipit sed sit voluptas quidem molestias beatae sequi laborum ex, officiis iste inventore deserunt veritatis officia illo repudiandae soluta. Beatae, delectus.
+            A computer science engineering graduate. I have strong passion for problem solving.Always up for new challenges. I like to work in a fast-paced dynamic environment. Everything that tickles my mind to think more interest me.
           </p>
           <a href="#contact" className="btn btn-primary">Le'ts Talk</a>
         </div>

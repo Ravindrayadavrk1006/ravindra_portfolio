@@ -1,21 +1,23 @@
-/* #project
-{
-    height: max-content;
-} */
 .portfolio__container
 {
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    /* margin:0 2rem 0 2rem; */
     gap:2.5rem;
 }
 .portfolio__item
 {
     background: var(--color-bg-variant);
-    padding: 1.3rem;
+    padding: 1.3rem 1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     /* height: 10em; */
     transition: var(--transition);
+}
+.project__container
+{
+    /* padding: 0 -2rem 0 0; */
+    margin:0 -2rem 0 0 ;
 }
 .portfolio__item:hover
 {

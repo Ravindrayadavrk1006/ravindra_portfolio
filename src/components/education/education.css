@@ -1,0 +1,50 @@
+.education
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.education__description
+{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+.education__particular
+{
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+.line-vertical
+{
+    height:120vh;
+    width:0.1em;
+    position:relative;
+    left:25rem;
+    bottom:-1em;
+    background: var(--color-primary);
+}
+.line-horizontal
+{
+    height:0.05em;
+    width:5em;
+    background:var(--color-primary);
+}
+.hl-1
+{
+    position:relative;
+    bottom: 30em;
+    left:24em;
+}
+.hl-2
+{
+    position:relative;
+    bottom: 18em;
+    left:24em;
+}
+.hl-3
+{
+    position:relative;
+    bottom:7em;
+    left:24em;
+}

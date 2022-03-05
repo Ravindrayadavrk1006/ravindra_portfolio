@@ -1,14 +1,17 @@
+/* #skills
+{
+    margin:0 20px 0 20px;
+} */
 .experience__container
 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
-    margin: 0 0;
 }
 .experience__container > div
 {
     background: var(--color-bg-variant);
-    padding:2.4rem 5rem;
+    padding:2.4rem 2.4rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
