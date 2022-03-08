@@ -45,8 +45,8 @@ const Projects = () => {
           <br />
           <small>bootstrap</small>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a target="_blank" href="htttp://dribble.com/Alien_pixels" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/Ravindrayadavrk1006/ravindra_portfolio/tree/master" className='btn'>Github</a>
+          <a target="_blank" href="#" className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
       </div>
