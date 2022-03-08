@@ -27,6 +27,8 @@ const Projects = () => {
           </div>
           <h3>Art World</h3>
           <small>react,html,css,node.js,express,javascript,jquery</small>
+          <br />
+          <small>bootstrap</small>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Ravindrayadavrk1006/cpf" className='btn'>Github</a>
           <a target="_blank" href="#" className='btn btn-primary'>Live Demo</a>
@@ -40,6 +42,8 @@ const Projects = () => {
           <small>
             react, javascript,css,html,mailJs
           </small>
+          <br />
+          <small>bootstrap</small>
           <div className="portfolio__item-cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a target="_blank" href="htttp://dribble.com/Alien_pixels" className='btn btn-primary'>Live Demo</a>
