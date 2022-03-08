@@ -31,7 +31,7 @@ const Contact = () => {
           <a target='_blank' href="mailto:ravindrayadavrk1012@gmail.com">
             <MdEmail className="contact__option-icon" ></MdEmail>
             <h4>Email</h4>
-            <h5>Dummy@gmail.com</h5>
+            <h5>Ravindrayadavrk1012@gmail.com</h5>
             </a>
           </article>
           <article className='contact__option'>

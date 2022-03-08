@@ -48,3 +48,18 @@
     bottom:7em;
     left:24em;
 }
+
+
+/* media query for 1024px and below*/
+@media screen and (max-width:1024px)
+{
+    .line__part
+    {
+        display: none;
+    }
+    .education
+    {
+        text-align: center;
+        display: block;
+    }
+}

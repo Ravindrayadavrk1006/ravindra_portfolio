@@ -36,9 +36,19 @@
     border-radius: 1rem;
     overflow: hidden;
 }
+.portfolio__item
+{
+    text-align: center;
+}
 .portfolio__item h3
 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 0 0 ;
+}
+.portfolio__item small
+{
+    margin-bottom:20px;
+    font-size:10px;
+    line-height:none;
 }
 .portfolio__item-cta
 {
